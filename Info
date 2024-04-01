@@ -25,7 +25,7 @@ Added Favorites To The Bot's Profile(Note: Just Because The Game You Want To Pla
 Also For Verbal Commands Added A Please Listen Command To Stop The Bot Completely Think Of It As A Force Stop Task(Note: I(The Owner) Will Get A Notification Everytime This Command Is Used, If Abused The Bot Will Leave The Current Instance. If I Think You Are Using The Command In A Bad Way You Will Get Muted/Blocked)
 The Audio Has Been Updated So It Can Understand Hard Accents But Not Other Languages, So Only Supports English Speech.
 Working On Being Able To Read Chatboxes If It Is Within A Radius I Set, Then Converts The Text Into A Prompt For The Bot.
-Vision: Able To Pickup Up On Hand Suggestions For Example, Pointing Towards A Item, Pointing At Someone, Handing It Something, If You Stand Infront Of The Bot It Will Stand In The Spot And Waiting Around 2-10 Seconds.
-Im Adding More Detections For Vision, Basic Hand Geastures, Can Detect If You Are Trying To Interact With It For Example(Hug, High Five, HandShake(etc..)) I Will Notice It And Try To Respond To It.
+Vision: Able To Pickup Up On Hand Suggestions For Example, Pointing Towards A Item, Pointing At Someone, Handing It Something, If You Stand Infront Of The Bot It Will Stand In The Spot And Waiting Around 2-10 Seconds Then Carry On With Its Prev Task.
+Im Adding More Detections For Vision, Basic Hand Geastures, Can Detect If You Are Trying To Interact With It For Example(Hug, High Five, HandShake(etc..)) It Will Notice It And Try To Respond To It.
 Added Even Better Self Learning Methods(Note: May Impact The Performance Of The Bot's Response Time And Movement)
 }
