@@ -3,7 +3,7 @@ Not Made By VRC inc. Nor Trying To Impersonate Any Moderation/Moderate Bot's, Mo
 This Is A Fun Project To See What I Can Push Myself To And Development In Ai Game Bot's
 You Might Ask Why VRChat?? Becuase It Involes VR Movements, Rotations And A Lot Of Stuff That Could Be Useful For VR FPS Game Developers For Adding Game Bot's.
 Once Im Done With This Project The Complete Source Code And How To Build It Will Be Release Until Then Hope You Have Fun With The (W.I.P) Ai VR Game Bot.
----------------------------------------------------------Still Used--------------------------------------------------------------------------
+---------------------------------------------------------No Longer Used, But Still Can Be Used--------------------------------------------------------------------------
 Note You Still Need To Give The Bot Instructions On How To Play, If It Has Not PLayed The Game(Or You Can Give It Tips) It Will Look At You
 Please Remember This Is A Self Learning Bot, Please Be Kind To It.
 
@@ -21,4 +21,9 @@ The Bot Is Now Able To Be "Self-aware" And Be-Able to Fully Teach Its Self. I Am
 
 End:
 The Bot Is Self-aware
+}
+------------------------------------------------------------Rework---------------------------------------------------------------------------------
+Version Rework{
+I Will Allow Any Avatar As Long As Any User Likes Only Including Friends, If Any Sexual Avatar Is Put On Game Bot It Will Be An Immediate Moderation Towards Every User In The Instance
+Dont Ruin The Fun For Others Also Game Bot Can And Will Eventually Reach The Public's Eye's And Grasp
 }
