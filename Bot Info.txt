@@ -78,4 +78,8 @@ I Was Able To Recover Data On Some Worlds
 Reinforced Learning Is Realeased Note It Was Still Dev Form I Havent Worked On It So Expect Bugs
 May Add Body Control Not Sure
 Also Pens Have Been Removed Due To A Person Making It Say A Racial Slur
+
+Beta:
+May Add A "Ai Voice" But Still Not Sure Because I Would Have To Right A Prompt, That Can Have Live Memory Which Isnt Possible, I Could Try Other Alternatives But Game Bot Itself Is Already Hard On My Current PC
+
 }
